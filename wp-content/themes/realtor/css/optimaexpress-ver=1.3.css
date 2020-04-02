@@ -1,0 +1,116 @@
+#ihf-main-container a:hover, #ihf-main-container a:focus {
+    outline: none !important;
+}
+
+#ihf-main-container .btn-link, body #ihf-main-container a {
+    color: #333;
+}
+a.ihf-txt-uc {
+    font-weight: 800 !important;
+    font-size: 14px !important;
+    color: #222 !important;
+    display: inline-block !important;
+    width: 100% !important;
+    margin: 6px 1px !important;
+    text-transform: uppercase !important;
+}
+
+#ihf-main-container .ihf-results-grid-photo {
+    background-size: auto auto;
+}
+
+#ihf-main-container .col-xs-6 {
+     font-size: 13px !important;
+    color: #5D5D5D !important;
+    font-weight: 700 !important;
+}
+#ihf-main-container .row {
+    
+    padding-top: 5px !important;
+}
+.ihf-bio-about-info div {
+    font-size: 15px;
+    line-height: 24px;
+    font-family: -webkit-pictograph;
+    font-weight: 100;
+}
+.widget .heading {
+    padding-top: 17px;
+}
+.side-bar .widget ul > li {
+    border-bottom: 1px solid #eee;
+    line-height: 44px;
+    list-style-type: none !important;
+}
+button.btn.btn-primary.btn-block {
+    background: #4CAF50 none repeat scroll 0% 0% !important;
+    text-transform: uppercase !important;
+    color: #FFF !important;
+    border-radius: 0px;
+    display: inline-block !important;
+    font-weight: bold !important;
+    font-family: "Montserrat", sans-serif;
+    transition: all 0.4s ease-in-out 0s !important;
+    border: 1px solid !important;
+}
+
+
+#ihf-main-container .ihf-grid-result-basic-info-container > div {
+    padding: 0 15px;
+}
+
+#ihf-main-container .ihf-grid-result-basic-info-container > div:first-child {
+    padding-left: 0;
+}
+
+#ihf-main-container .ihf-grid-result-container.well {
+    border-radius: 0;
+}
+
+#ihf-main-container .title-bar-1, .properti-detsil .tags li {
+    border-radius: 0;
+    margin-top: -25px;
+}
+
+#ihf-main-container a .ihf-grid-result-address {
+    color: #333;
+    font-weight: bold;
+    display: block;
+}
+
+body #ihf-main-container .pagination > li.disabled > a,
+body #ihf-main-container .pagination > li > a {
+    font-size: 14px;
+    line-height: 28px;
+    width: auto;
+    color: #666;
+}
+
+body #ihf-main-container .pagination > li.disabled > a:hover,
+body #ihf-main-container .pagination > li > a:hover {
+    color: #fff;
+}
+
+#ihf-main-container #ihf-detail-features-tab .row.mt-10 ,
+#ihf-main-container .ihf-listing-detail .pull-right.ihf-social-share > .btn {
+    margin-top: 0;
+}
+
+
+#ihf-main-container #areaPickerContainer .areaPickerExpandAllButtonClass {
+    display: inline-block !important;
+}
+
+
+#ihf-main-container img {
+    width: 100%;
+    height: auto;
+}
+
+#ihf-main-container .thumbnail {
+    margin-right: 30px;
+}
+
+body #ihf-main-container .pull-right.ihf-office-photo {
+    float: left !important;
+}
